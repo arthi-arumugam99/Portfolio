@@ -5,7 +5,7 @@ Hi! I am Arthi. This portfolio highlights my education, work experience, and key
 
 ## Education  
 - **Bachelor of Technology, Information Technology**  
-  *St. Joseph College of Engineering, Anna University, Chennai, India*  
+  *St. Joseph's College of Engineering, Anna University, Chennai, India*  
   **Graduation Date:** Dec 2020  
 
 - **Master of Sciences, Management**  
