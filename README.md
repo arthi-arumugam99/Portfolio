@@ -59,7 +59,6 @@ Below are some of the key projects that demonstrate my skills in data engineerin
 ## Contact Me  
 - **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/arthiarumugam99/)
 - **Email:**    arthi1805@gmail.com 
-- **GitHub:**   [GitHub Portfolio](https://arthi-arumugam99.github.io/Portfolio/)
 
 
 Thank you for visiting my portfolio :)
