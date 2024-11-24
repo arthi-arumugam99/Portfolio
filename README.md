@@ -16,19 +16,19 @@ Hi! I am Arthi. This portfolio highlights my education, work experience, and key
 ## Work Experience  
 - **Data Analyst**, *CodeSizzler*  
   *Jan 2024 – Current*  
-  - Analyzing data trends to provide actionable insights for business improvements.  
+  - Analysing data trends to provide actionable insights for business improvements.  
   - Automating data pipelines using Python and SQL.  
   - Tools/Technologies: Python, SQL, Power BI, Azure. 
 
 - **Project Management Assistant**, *Network Rail*  
   *Apr 2023 – Dec 2023*  
   - Assisted in the delivery of key infrastructure projects.  
-  - Managed project documentation and stakeholder communication.  
+  - Managed project resources, deployment, documentation and stakeholder communication.  
 
 - **Programming Analyst Intern**, *Cognizant Technology Solutions*  
   *Dec 2019 – May 2020*  
   - Designed and implemented software solutions for project requirements.  
-  - Technologies: Java, HTML & CSS, SQL, and Spring Boot.  
+  - Technologies: Java, HTML & CSS, SQL, and Spring Boot Framework.  
 
 
 ## Projects  
