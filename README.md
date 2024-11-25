@@ -34,14 +34,21 @@ Hi! I am Arthi. This portfolio highlights my education, work experience, and key
 ## Projects  
 Below are some of the key projects that demonstrate my skills in data engineering, analytics, and automation:  
 
-### **1. Taxi Trip Data Analysis**  
+### **1. Automated Weather Alert System**  
+- **Description:** An [Automated Weather Alert system](https://github.com/arthi-arumugam99/Weather-Alert-System) that fetches hourly weather updates for Chennai, stores the data in Google Cloud Storage, and sends WhatsApp notifications using Twilio.
+- **Technologies Used:** Python, OpenWeatherMap API, Google Cloud Functions, Google Cloud Storage, Google Cloud Pub/Sub, Twilio WhatsApp API, Google Cloud Scheduler
+
+![diagram-export-25-11-2024-08_20_18](https://github.com/user-attachments/assets/ed0c49c0-5252-468b-a998-493317bbbc40)
+
+
+### 2. Taxi Trip Data Analysis**  
 - **Description:** This project processes and visualizes [NYC Yellow Taxi Trip data](https://github.com/arthi-arumugam99/Taxi-Data-Engineering-Project) using Google Cloud Platform services for data processing and BigQuery for analysis, with visualizations in Python and Power BI.
 - **Technologies Used:** Google Cloud Storage, Google Dataproc, Apache Spark, Google BigQuery, Python, Pandas, Matplotlib, Power BI.
 
 ![diagram-export-22-11-2024-05_22_42](https://github.com/user-attachments/assets/1a901bb3-8a59-4634-a9c5-f59cc2c90118)
 
 
-### **2. ETL Pipeline Development**  
+### **3. ETL Pipeline Development**  
 - **Description:** Designed and deployed an [ETL Pipeline](https://github.com/arthi-arumugam99/ETL-Pipeline-Development) to process encoded employee data and load it into a data warehouse. 
 - **Technologies Used:** Python, Google Cloud Storage, Google Cloud Data Fusion, Apache Airflow (via Cloud Composer), BigQuery, Power BI.<br>
 
