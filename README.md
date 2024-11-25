@@ -41,7 +41,7 @@ Below are some of the key projects that demonstrate my skills in data engineerin
 ![diagram-export-25-11-2024-11_27_47](https://github.com/user-attachments/assets/cd100dd8-b016-4c13-8d66-70defc609af1)
 
 
-### 2. Taxi Trip Data Analysis**  
+### **2. Taxi Trip Data Analysis**  
 - **Description:** This project processes and visualizes [NYC Yellow Taxi Trip data](https://github.com/arthi-arumugam99/Taxi-Data-Engineering-Project) using Google Cloud Platform services for data processing and BigQuery for analysis, with visualizations in Python and Power BI.
 - **Technologies Used:** Google Cloud Storage, Google Dataproc, Apache Spark, Google BigQuery, Python, Pandas, Matplotlib, Power BI.
 
