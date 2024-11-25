@@ -45,7 +45,7 @@ Below are some of the key projects that demonstrate my skills in data engineerin
 - **Description:** This project processes and visualizes [NYC Yellow Taxi Trip data](https://github.com/arthi-arumugam99/Taxi-Data-Engineering-Project) using Google Cloud Platform services for data processing and BigQuery for analysis, with visualizations in Python and Power BI.
 - **Technologies Used:** Google Cloud Storage, Google Dataproc, Apache Spark, Google BigQuery, Python, Pandas, Matplotlib, Power BI.
 
-![diagram-export-22-11-2024-05_22_42](https://github.com/user-attachments/assets/1a901bb3-8a59-4634-a9c5-f59cc2c90118)
+![diagram-export-25-11-2024-11_43_44](https://github.com/user-attachments/assets/aa82a665-8530-40f9-b79d-96aae367e7e7)
 
 
 ### **3. ETL Pipeline Development**  
