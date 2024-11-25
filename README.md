@@ -38,7 +38,7 @@ Below are some of the key projects that demonstrate my skills in data engineerin
 - **Description:** An [Automated Weather Alert system](https://github.com/arthi-arumugam99/Weather-Alert-System) that fetches hourly weather updates for Chennai, stores the data in Google Cloud Storage, and sends WhatsApp notifications using Twilio.
 - **Technologies Used:** Python, OpenWeatherMap API, Google Cloud Functions, Google Cloud Storage, Google Cloud Pub/Sub, Twilio WhatsApp API, Google Cloud Scheduler.
 
-![diagram-export-25-11-2024-11_19_25](https://github.com/user-attachments/assets/ab6e6969-bf36-4e86-a584-d079b8da7312)
+![diagram-export-25-11-2024-11_27_47](https://github.com/user-attachments/assets/cd100dd8-b016-4c13-8d66-70defc609af1)
 
 
 ### 2. Taxi Trip Data Analysis**  
