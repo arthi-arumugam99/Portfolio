@@ -14,7 +14,7 @@ Hi! I am Arthi. This portfolio highlights my education, work experience, and key
 
 
 ## Work Experience  
-- **Data Analyst**, *CodeSizzler*  
+- **Data Analyst**, *Codesizzler*  
   *Jan 2024 – Current*  
   - Analysing data trends to provide actionable insights for business improvements.  
   - Automating data pipelines using Python and SQL.  
