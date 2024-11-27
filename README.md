@@ -60,7 +60,7 @@ Below are some of the key projects that demonstrate my skills in data engineerin
 - **BI Reporting:** Advanced Excel, Power BI, Tableau
 - **Agile:** Jira, Kanban, Confluence, Scrum
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Technologies:** Spark, Kafka, Airflow, Azure Platform - DataFactory,Synapse,DataLake,SQL,<br> Google Cloud Services - Datafusion,Dataproc,GoogleCloudStorage,BigQuery,Composer
+- **Technologies:** Spark, Kafka, Airflow, Azure Platform - DataFactory, Synapse, DataLake, Google Cloud Services - Datafusion, Dataproc, Google Cloud Storage, BigQuery, Composer
 
 
 
